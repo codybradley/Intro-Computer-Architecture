@@ -1,0 +1,44 @@
+AR Add RR 1A
+BALR Branch and Link RR 05
+BCR Branch on Condition RR 07
+BCTR Branch on Count RR	06
+CR Compare RR 19
+DR Divide RR 1D
+LCR Load Complement RR 13
+LNR Load Negative RR 11
+LPR Load Positive RR 10
+LR Load RR 18
+LTR Load and Test RR 12
+MR Multiply RR 1C
+NR AND RR 14
+OR OR RR 16
+SR Subtract RR 1B
+XR Exclusive OR RR 17
+A Add RX 5A
+AH Add Halfword RX 4A
+AL Add Logical RX 5E
+BAL Branch and Link RX 45
+BC Branch on Condition RX 47
+BCT Branch on Count RX 46
+C Compare RX 59
+CH Compare Halfword RX 49
+CL Compare Logical RX 55
+CVB Convert to Binary RX 4F
+CVD Convert to Decimal RX 4E
+D Divide RX 5D
+EX Execute RX 44
+IC Insert Character RX 43
+L Load RX 58
+LA Load Address RX 41
+LH Load Halfword RX 48
+M Multiply RX 5C
+MH Multiply Halfword RX 4C
+N AND RX 54
+O OR RX 56
+S Subtract RX 5B
+SH Subtract Halfword RX 4B
+SL Subtract Logical RX 5F
+ST Store RX 50
+STC Store Character RX 42
+STH Store Halfword RX 40
+X Exclusive OR RX 57
